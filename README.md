@@ -17,4 +17,6 @@
 - Big data technologies like Hadoop and Spark
 
 📫 **How to reach me:**
-- Email: [tom.goering@yahoo.de]
+
+- 📧 **Email:** [tom.goering@yahoo.de](mailto:tom.goering@yahoo.de)
+
