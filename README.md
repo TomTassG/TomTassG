@@ -6,7 +6,7 @@
 
 🛠️ **Skills:**
 - **Data Analysis:** Python, R, SQL
-- **Visualization Tools:** Tableau, Matplotlib, Seabron
+- **Visualization Tools:** Tableau, Matplotlib, Seaborn
 - **Machine Learning:** Regression, Classification, Clustering ...
 
 👥 **Connect with me:**
