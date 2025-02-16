@@ -1,22 +1,31 @@
-### Hi there! 👋 I'm Tom
+## Hi there! 👋 I'm Tom Göring
 
-🎓 I'm currently pursuing a Master's in Business Analytics at NOVA School of Business and Economics.
+🎓 **Master's in Business Analytics** at [NOVA School of Business and Economics](https://www.novasbe.unl.pt/), passionate about leveraging data-driven insights to drive strategic decisions.
 
-🔍 I'm passionate about uncovering insights from data and transforming them into actionable strategies.
+🔍 I specialize in **data science, machine learning, and business intelligence**, with hands-on experience in predictive modeling, data visualization, and process optimization.
 
-🛠️ **Skills:**
-- **Data Analysis:** Python, R, SQL
-- **Visualization Tools:** Tableau, Matplotlib, Seaborn
-- **Machine Learning:** Regression, Classification, Clustering ...
+## 🚀 Professional Experience  
+### **Data Science Intern @ NOS SGPS** (2024)  
+- Developed hybrid and classical time-series models, improving call center demand forecasting.  
+- Worked with **Spark, YARN-cluster computing, and cloud-based ML solutions**.  
+- Researching **automated customer routing** for my master's thesis.   
 
-👥 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/tom-goering/)
+## 🛠️ Technical Skills  
+- **Programming & Data Analysis:** Python, SQL, R, Pandas, VBA
+- **Machine Learning:** Regression, Classification, Clustering, Time Series Forecasting  
+- **Visualization & BI:** Tableau, Matplotlib, Seaborn  
+- **Web Technologies:** JavaScript, HTML, CSS, WordPress, WooCommerce  
 
-📚 I'm currently learning:
-- Advanced machine learning techniques
-- Big data technologies like Hadoop and Spark
+## 🌍 Languages  
+- 🇩🇪 **German** (Native)  
+- 🇬🇧 **English** (Fluent, C1)  
 
-📫 **How to reach me:**
+## 📚 Currently Learning  
+- Advanced ML techniques (Deep Learning, NLP)  
+- Big Data technologies (Hadoop, Spark)  
 
-- 📧 **Email:** [tom.goering@yahoo.de](mailto:tom.goering@yahoo.de)
+## 📫 Let's Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom-goering/)  
+- 📧 [Email](mailto:tom.goering@yahoo.de)  
+
 
